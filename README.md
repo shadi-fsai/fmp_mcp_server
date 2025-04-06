@@ -23,11 +23,7 @@ A Model Context Protocol (MCP) server that provides access to Financial Modeling
 
 ### Setup
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/fmp-mcp-server.git
-   cd fmp-mcp-server
-   ```
+1. Clone this repository
 
 2. Create a `.env` file in the project root with your API key:
    ```
