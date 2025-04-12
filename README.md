@@ -86,6 +86,7 @@ Claude Desktop can connect to MCP servers to access financial data. Here's how t
                 "run",
                 "fmp_mcp_server.py"
 	    ]
+         }
  
 
 
